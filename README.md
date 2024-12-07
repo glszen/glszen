@@ -4,17 +4,19 @@
   
 </h1>
 
+### 📚 About Me
+
+I'm passionate about learning new technologies, and currently diving deep into **C#**. I enjoy solving problems and building useful applications. Looking forward to expanding my skills in software development!
+
+---
+
 <p align="center">
   <em>🌱 Currently learning <strong>C#</strong></em>
 </p>
 
 ---
 
-### 📚 About Me
 
-I'm passionate about learning new technologies, and currently diving deep into **C#**. I enjoy solving problems and building useful applications. Looking forward to expanding my skills in software development!
-
----
 
 ### 🌍 Connect with Me:
 
