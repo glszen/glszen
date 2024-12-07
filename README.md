@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Gülşen ✨
+  <span>Hi, I'm Gülşen ✨</span>
   <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="150" style="vertical-align: middle;"/>
 </h1>
 
@@ -63,9 +63,3 @@ I'm passionate about learning new technologies, and currently diving deep into *
 
 ### 🧑‍💻 Fun Fact:
 I love solving coding challenges and learning new concepts! Feel free to check out my projects and reach out if you'd like to collaborate. 😊
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulsenk&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="gulsenk stats"/>
-</p>
