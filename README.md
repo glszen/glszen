@@ -63,6 +63,3 @@ I love solving coding challenges and learning new concepts! Feel free to check o
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulsenk&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="gulsenk stats"/>
-</p>
