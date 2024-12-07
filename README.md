@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Gülşen ✨</h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="200"/>
-</p>
+<h1 align="center">
+  Hi, I'm Gülşen ✨
+  <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="150" style="vertical-align: middle;"/>
+</h1>
 
 <p align="center">
   <em>🌱 Currently learning <strong>C#</strong></em>
@@ -18,7 +17,7 @@ I'm passionate about learning new technologies, and currently diving deep into *
 
 ### 🌍 Connect with Me:
 
-<p align="end">
+<p align="center">
   <a href="https://linkedin.com/in/gulsenk" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -67,3 +66,6 @@ I love solving coding challenges and learning new concepts! Feel free to check o
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulsenk&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="gulsenk stats"/>
+</p>
