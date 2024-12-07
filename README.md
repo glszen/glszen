@@ -1,14 +1,15 @@
 <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="150" style="vertical-align: middle;"/>
 <h1 align="start">
   <span style="display: inline-block; vertical-align: middle;">Hi, I'm Gülşen ✨</span>
-  
-</h1>
-
-### 📚 About Me
+  ### 📚 About Me
 
 I'm passionate about learning new technologies, and currently diving deep into **C#**. I enjoy solving problems and building useful applications. Looking forward to expanding my skills in software development!
 
 ---
+  
+</h1>
+
+
 
 <p align="center">
   <em>🌱 Currently learning <strong>C#</strong></em>
