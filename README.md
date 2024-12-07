@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Gülşen ✨</h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="200"/>
+</p>
+
+<p align="center">
   <em>🌱 Currently learning <strong>C#</strong></em>
 </p>
 
