@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="150" style="vertical-align: middle;"/>
-  <span style="display: inline-block; vertical-align: middle;">Hi, I'm Gülşen ✨</span>
+  <span style="display: inline-block; vertical-align: end;">Hi, I'm Gülşen ✨</span>
   
 </h1>
  ### 📚 About Me
