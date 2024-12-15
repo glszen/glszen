@@ -4,7 +4,8 @@
   <p style="display: inline-block; vertical-align: end;">Hi✨</p>
   
 </h1>
- ###  📚 About Me
+
+ ### 📚 About Me
 
 I'm passionate about learning new technologies, and currently diving deep into **C#**. I enjoy solving problems and building useful applications. Looking forward to expanding my skills in software development!
 
