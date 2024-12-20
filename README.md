@@ -1,8 +1,7 @@
 
+# Hi✨
 
-![Hello and Wave](https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif)
-
-# Hi✨ ![Hello and Wave](https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif)
+ ![Hello and Wave](https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif)
 
 ### About Me
 - 💻 Full-stack developer with a strong focus on web development technologies like HTML, CSS, JavaScript, and ASP.NET.
