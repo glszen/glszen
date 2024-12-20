@@ -1,24 +1,19 @@
-
 <h1 align="center">
   <img src="https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif" alt="Hello and Wave" width="150" style="vertical-align: middle;"/>
   <p style="display: inline-block; vertical-align: end;">Hi✨</p>
-  
 </h1>
 
- ### 📚 About Me
+### 📚 About Me
 
-I'm passionate about learning new technologies, and currently diving deep into **C#**. I enjoy solving problems and building useful applications. Looking forward to expanding my skills in software development!
+I'm passionate about learning new technologies, and I recently completed the **Patika.dev .NET Full Stack Developer Training**. I gained hands-on experience in both front-end and back-end development. I'm enthusiastic about building full-stack applications using technologies like **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**. My goal is to apply these skills to build scalable, user-friendly, and efficient software solutions.
 
 ---
 
-
 <p align="center">
-  <em>🌱 Currently learning <strong>C#</strong></em>
+  <em>🌱 Currently mastering <strong>C#</strong> and exploring full-stack development.</em>
 </p>
 
 ---
-
-
 
 ### 🌍 Connect with Me:
 
@@ -60,11 +55,12 @@ I'm passionate about learning new technologies, and currently diving deep into *
 
 ### 🎯 My Learning Journey:
 
-- 🌱 Currently mastering **C#** and .NET framework
-- 👩‍💻 Exploring **backend development** with **MySQL** and **C#**
-- 💡 Eager to learn **cloud computing** and **machine learning** in the future.
+- 🌱 Completed **Patika.dev .NET Full Stack Developer Training**, gaining hands-on experience with **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**.
+- 👩‍💻 Currently mastering **C#** and the **.NET Framework**, focusing on building full-stack applications.
+- 💡 Developing problem-solving skills and enhancing my ability to create scalable, responsive, and user-friendly software solutions.
 
 ---
 
 ### 🧑‍💻 Fun Fact:
-I love solving coding challenges and learning new concepts! Feel free to check out my projects and reach out if you'd like to collaborate. 😊
+I enjoy tackling coding challenges and learning new concepts! Feel free to check out my projects, and if you're interested in collaborating, don't hesitate to reach out. 😊
+
