@@ -1,5 +1,5 @@
 
-# Hi✨
+# Hi. I'm Gülşen 👋✨
 
  ![Hello and Wave](https://media.giphy.com/media/BMaE0wCQhcJj2/giphy.gif)
 
