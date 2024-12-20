@@ -10,7 +10,7 @@ I'm passionate about learning new technologies, and I recently completed the **P
 ---
 
 <p align="center">
-  <em>🌱 Currently mastering <strong>C#</strong> and exploring full-stack development.</em>
+  <em>🌱 Currently mastering exploring full-stack development.</em>
 </p>
 
 ---
