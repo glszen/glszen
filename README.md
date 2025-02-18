@@ -4,7 +4,7 @@
 <h1>
  <img align="right" height="150" src="https://www.funimada.com/assets/images/cards/big/hello-2.gif" />
 </h1>
-### 📚 About Me
+###  📚 About Me
 
 
 I'm passionate about learning new technologies, and I recently completed the **Patika.dev .NET Full Stack Developer Training**. I gained hands-on experience in both front-end and back-end development. I'm enthusiastic about building full-stack applications using technologies like **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**. My goal is to apply these skills to build scalable, user-friendly, and efficient software solutions.
