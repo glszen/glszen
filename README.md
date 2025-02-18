@@ -1,10 +1,31 @@
-<h2 align="left">Hi 👋! I'm Gülşen.</h2>
+<h1 align="center">
+ <img align="right" height="150" src="file:///C:/Users/gulse/Downloads/hello-2.gif"  />
+  <p style="display: inline-block; vertical-align: end;">Hi✨</p>
+</h1>
 
-###
+### 📚 About Me
 
-<img align="right" height="150" src="file:///C:/Users/gulse/Downloads/hello-2.gif"  />
+I'm passionate about learning new technologies, and I recently completed the **Patika.dev .NET Full Stack Developer Training**. I gained hands-on experience in both front-end and back-end development. I'm enthusiastic about building full-stack applications using technologies like **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**. My goal is to apply these skills to build scalable, user-friendly, and efficient software solutions.
 
-###
+---
+
+<p align="center">
+  <em>🌱 Currently mastering exploring full-stack development.</em>
+</p>
+
+---
+
+### 🌍 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/gulsenk" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 💻 Languages and Tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
@@ -24,4 +45,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
-###
+---
+
+### 🎯 My Learning Journey:
+
+- 🌱 Completed **Patika.dev .NET Full Stack Developer Training**, gaining hands-on experience with **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**.
+- 👩‍💻 Currently mastering **C#** and the **.NET Framework**, focusing on building full-stack applications.
+- 💡 Developing problem-solving skills and enhancing my ability to create scalable, responsive, and user-friendly software solutions.
+
+---
+
+### 🧑‍💻 Fun Fact:
+I enjoy tackling coding challenges and learning new concepts! Feel free to check out my projects, and if you're interested in collaborating, don't hesitate to reach out. 😊
