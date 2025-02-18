@@ -1,5 +1,5 @@
 <h1 align="center">
- <img align="right" height="150" src="(https://www.funimada.com/assets/images/cards/big/hello-2.gif)"  />
+ <img align="right" height="150" src="https://www.funimada.com/assets/images/cards/big/hello-2.gif" />
   <p style="display: inline-block; vertical-align: end;">Hi✨</p>
 </h1>
 
