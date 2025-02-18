@@ -1,4 +1,4 @@
-<h1 align="start">
+<h1 align="center">
  <img align="right" height="150" src="https://www.funimada.com/assets/images/cards/big/hello-2.gif" />
 </h1>
 
