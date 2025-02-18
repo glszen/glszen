@@ -53,15 +53,6 @@ I'm passionate about learning new technologies, and I recently completed the **P
 ### 🎯 My Learning Journey:
 
 - 🌱 Completed **Patika.dev .NET Full Stack Developer Training**, gaining hands-on experience with **.NET**, **C#**, **ASP.NET**, **SQL**, and **JavaScript**.
-- 👩‍💻 Currently mastering **C#** and the **.NET Framework**, focusing on building full-stack applications.
+- 👩‍💻 Currently mastering **C#** and the **.NET Framework**, **JavaScript** , focusing on building full-stack applications.
 - 💡 Developing problem-solving skills and enhancing my ability to create scalable, responsive, and user-friendly software solutions.
 
----
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/glszen/glszen/output/snake.svg" alt="Snake animation" />
-
-
-###
